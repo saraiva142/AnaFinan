@@ -37,12 +37,17 @@ with tab1:
             "Categoria:",
             options=[
                 "Alimentação",
-                "Gasolina",
-                "Saúde",
+                "Plano de Saúde",
+                "Consultório",
+                "Balé",
                 "Lazer",
                 "Educação",
                 "Mercado",
+                "Compras",
                 "Shopping",
+                "Saídas",
+                "Livros pessoal",
+                "Cartão C6 colorido"
                 "Outros",
             ],
         )
