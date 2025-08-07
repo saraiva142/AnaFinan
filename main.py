@@ -47,7 +47,7 @@ with tab1:
                 "Shopping",
                 "Saídas",
                 "Livros pessoal",
-                "Cartão C6 colorido"
+                "Cartão C6 colorido",
                 "Outros",
             ],
         )
